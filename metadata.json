@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator & Penukar Tradisional Malaysia",
+  "description": "Kalkulator dan penukar unit tradisional Malaysia merangkumi panjang (jengkal, hasta, depa), jisim (mayam, tahil, kati), isipadu (gantang, cupak), keluasan (relung, jemba), serta pengiraan Zakat Fitrah dan Emas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
